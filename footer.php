@@ -8,6 +8,6 @@
       <li class="nav-item"><a href="#" class="nav-link px-2 text-muted">Partner</a></li>
       <li class="nav-item"><a href="#" class="nav-link px-2 text-muted">Lavora con Noi</a></li>
     </ul>
-    <p class="text-center text-muted">© 2024 Callcamp, SRL</p>
+    <p class="text-center text-muted">© 2024 Callcamp SRL</p>
   </footer>
 </div>
