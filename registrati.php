@@ -23,13 +23,13 @@
                     <div class="row mt-4 pt-1">
                         <div class="form-group d-flex fw-bold">
                             <label for="email" class="form-label ms-3 me-4 pe-2 ps-1">EMAIL:</label>
-                            <input type="email" id="email" name="email" class="form-control" maxlenght="255" required>
+                            <input type="email" id="email-registrati" name="email-registrati" class="form-control" maxlenght="255" required>
                         </div>
                     </div>
                     <div class="row mt-4 pt-2">
                         <div class="form-group d-flex fw-bold">
                             <label for="oggetto" class="form-label ms-1 me-2">PASSWORD:</label>
-                            <input type="text" id="password" name="password" class="form-control" maxlenght="100" required>
+                            <input type="text" id="password-registrati" name="password-registrati" class="form-control" maxlenght="100" required>
                         </div>
                     </div>
                 </div>
@@ -39,7 +39,7 @@
                         <button type="button" class="btn btn-link" data-bs-toggle="modal" data-bs-target="#modal-registrati">Non sei registrato? Registrati!</button>
                     </div>
                     <div class="mt-3 mb-2">
-                        <button class="btn btn-success fw-bold py-1 px-5"><h5 class="fw-bold pt-1">LOGIN</h5></button>
+                        <button class="btn btn-success fw-bold py-1 px-5"><h5 class="fw-bold pt-1">REGISTRATI</h5></button>
                     </div>
                 </div>
             </div>

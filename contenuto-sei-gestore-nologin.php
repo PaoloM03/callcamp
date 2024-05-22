@@ -1,3 +1,6 @@
+<?php
+error_reporting(E_ALL & ~E_NOTICE & ~E_WARNING);
+?>
 <div class="rounded-5 border border-5 mt-3 mx-5" style="background-color: lightgreen">
     <div class="container">
         <form>
